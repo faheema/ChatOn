@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llaa"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:gravity="right"
+    >
+
+    <LinearLayout
+            android:id="@+id/v1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="@dimen/padding_10"
+            android:background="@mipmap/chat_bubble_blue"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/padding_5"
+            android:paddingLeft="@dimen/padding_15"
+            android:paddingRight="@dimen/pad_chat_item"
+            android:paddingTop="@dimen/padding_5" >
+
+            <TextView
+                android:id="@+id/lbl1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:textColor="@color/white"
+                android:textSize="@dimen/txt_13sp" />
+            <TextView
+                android:id="@+id/lbl2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="sd"
+                android:textColor="@color/white"
+                android:textSize="@dimen/txt_14sp" 
+                android:maxLines="4"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/lbl3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="textvdv"
+            android:textColor="@color/main_color_gray"
+            android:textSize="@dimen/txt_14sp"
+            android:layout_alignRight="@+id/v1"
+            android:layout_below="@+id/v1"
+            android:layout_marginTop="@dimen/padding_5"
+            android:layout_marginRight="@dimen/padding_20"
+            />
+</LinearLayout>

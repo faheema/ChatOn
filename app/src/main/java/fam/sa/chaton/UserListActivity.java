@@ -98,7 +98,7 @@ public class UserListActivity extends BaseActivity
 										Toast.LENGTH_SHORT).show();
 
 							uList = new ArrayList<ParseUser>(li);
-							ListView list = (ListView) findViewById(R.id.list);
+							ListView list = (ListView) findViewById(R.id.userlist);
 							list.setAdapter(new UserAdapter());
 							list.setOnItemClickListener(new OnItemClickListener() {
 

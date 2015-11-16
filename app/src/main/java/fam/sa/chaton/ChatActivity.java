@@ -73,7 +73,7 @@ public class ChatActivity extends BaseActivity
 		setContentView(R.layout.chat_layout);
 
 		convList = new ArrayList<Conversation>();
-		ListView list = (ListView) findViewById(R.id.list);
+		ListView list = (ListView) findViewById(R.id.chatlist);
 
 		mChatAdapter = new ChatListAdapter(ChatActivity.this,UserListActivity.user.getUsername(),convList);
 		list.setAdapter(mChatAdapter);

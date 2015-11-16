@@ -15,7 +15,7 @@
         android:layout_gravity="center_horizontal" />
 
     <ListView
-            android:id="@+id/list"
+            android:id="@+id/userlist"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:divider="@color/colorPrimaryDark"

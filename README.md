@@ -11,10 +11,8 @@ Key features of this app :
 
 ![Chat App using parse][1]
 
-
-
-
-You can dowbload a sample app given by parse 
+##### Regester page looks like this
+![Chat App using parse][2]
 
 
  License
@@ -52,5 +50,6 @@ Faheem Unnisa- <faheem.fu@gmail.com>
    src="https://pbs.twimg.com/profile_images/614583061448036352/CBpFkPaz_400x400.png"  height="50" width="50"/>
 
 
- [0]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleActivityLifeCycle/img/sc_a.png
+
  [1]:https://github.com/faheema/ChatOn/blob/master/img/sc.gif
+ [2]:https://github.com/faheema/ChatOn/blob/master/img/sc_reg.gif

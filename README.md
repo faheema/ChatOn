@@ -34,7 +34,7 @@ Key features of this app :
 Developed By
 --------------------
 
-Faheem Unnisa- <faheem.fu@gmail.com>
+Faheem - <DFahmApps@gmail.com>
 
 <a href="https://twitter.com/Faheem_u">
   <img alt="Follow me on Twitter"

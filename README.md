@@ -3,11 +3,12 @@ Here is Android Chat Application using Parse Server , For you to start with <br>
 
 Here is the link to chat server : https://parse.com/ <br>
 Key features of this app :
-#####1. Login
-#####2. Register
-#####3. User List
-#####4. 1-1 chat
-#####5. Bubble display for send and recieve messages
+
+##### 1. Login
+##### 2. Register
+##### 3. User List
+##### 4. 1-1 chat
+##### 5. Bubble display for send and recieve messages
 
 ![Chat App using parse][1]
 
